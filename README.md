@@ -1,5 +1,5 @@
 # Challenge n°1
-Intitulé : **Hello HTML**
+Intitulé : **Hello HTML**  
 https://github.com/O-clock-Explorer/Challenge-Hello-HTML
 
 Guillaume DURAND  
