@@ -9,7 +9,7 @@ S1-J1 | 02/10/2017
 Type : HTML
 
 ## Objectif
-Reproduire la page ci-dessosu en HTML.
+Reproduire la page ci-dessous en HTML.
 ![daily goal](docs/objectif.png)
 
 ## Bonus
