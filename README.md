@@ -10,7 +10,7 @@ Type : HTML
 
 ## Objectif
 Reproduire la page ci-dessous en HTML.
-![daily goal](docs/objectif.png)
+![goal](docs/objectif.png)
 
 ## Bonus
 ![bonus goal](docs/bonus.png)
